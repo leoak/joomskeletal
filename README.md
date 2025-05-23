@@ -1,3 +1,5 @@
+From [kevinsguides.com](https://kevinsguides.com/guides/webdev/joomla/joomla-templates/dev-joom-tmpl/)
+
 # Skeletal Template
 Basically the simplest template you could start with for Joomla 5.
 
